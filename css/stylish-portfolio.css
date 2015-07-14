@@ -155,7 +155,11 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
     background: url(../img/bg.jpg) no-repeat center center scroll;
+=======
+    background: url(../img/bg.jpg) no-repeat 0 0 scroll;
+>>>>>>> ff4a93fcc48a730befa3c8f9c0f243ac7fb925b2
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -236,4 +240,8 @@ hr.small {
 
 footer {
     padding: 100px 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ff4a93fcc48a730befa3c8f9c0f243ac7fb925b2
